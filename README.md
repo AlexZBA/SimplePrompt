@@ -1,14 +1,25 @@
 # SimplePrompt
 
-![Preview](./images/preview_Ch.png) ![Preview](./images/preview_En.png)
-![Preview](./images/phonePreview_Ch.png) ![Preview](./images/phonePreview_En.png)
-
 **A Simple Prompt Tool for Beginners**
 
 A beginner-friendly AI image prompt builder with a clean, intuitive UI.
 Explore bilingual tags, mix and match ideas, and generate prompts with ease.
 
 面向 AI 生图新手的提示词工具，提供干净易用的界面。支持手机和桌面、中英标签搜索、自由搭配、收藏、黑名单，以及保留已选词的种子随机生成。
+
+## Screenshots / 界面预览
+
+### Desktop / 桌面端
+
+| 中文 | English |
+| :---: | :---: |
+| [<img src="./images/preview_Ch.png" alt="Chinese desktop interface" width="480">](./images/preview_Ch.png) | [<img src="./images/preview_En.png" alt="English desktop interface" width="480">](./images/preview_En.png) |
+
+### Mobile / 手机端
+
+| 中文 | English |
+| :---: | :---: |
+| [<img src="./images/phonePreview_Ch.png" alt="Chinese mobile interface" width="260">](./images/phonePreview_Ch.png) | [<img src="./images/phonePreview_En.png" alt="English mobile interface" width="260">](./images/phonePreview_En.png) |
 
 ## 使用
 
