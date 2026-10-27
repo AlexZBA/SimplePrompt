@@ -1,5 +1,8 @@
 # SimplePrompt
 
+![Preview][./preview_Zh] ![Preview][./preview_En]
+![Preview][./phonePreview_Zh] ![Preview][./phonePreview_En]
+
 **A Simple Prompt Tool for Beginners**
 
 A beginner-friendly AI image prompt builder with a clean, intuitive UI.
