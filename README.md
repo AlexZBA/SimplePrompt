@@ -14,6 +14,12 @@ Explore bilingual tags, mix and match ideas, and generate prompts with ease.
 
 在仓库 **Settings → Pages** 中选择 **Deploy from a branch**，分支 `main`、目录 `/ (root)`，保存即可发布。
 
+## Language / 界面语言
+
+The first visit follows the browser's preferred system language: Chinese (`zh-*`) uses the Chinese UI; English and other languages use English. Switch with **English / 中文** next to **About SimplePrompt**. On phones, both are in **More**. Your manual preference is remembered in this browser.
+
+首次打开按浏览器提供的首选语言显示中英文界面。可在“关于 SimplePrompt”旁切换，手机端入口位于“更多”菜单。手动选择会保存；切换不会改变搭配、收藏、黑名单或随机种子。两种界面均支持中英搜索，复制结果仍为英文 tag。
+
 ## 许可证与署名
 
 Copyright © 2026 AlexZBA. 本项目的软件代码采用自定义的
