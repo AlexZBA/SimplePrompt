@@ -1,7 +1,7 @@
 # SimplePrompt
 
-![Preview][./preview_Zh] ![Preview][./preview_En]
-![Preview][./phonePreview_Zh] ![Preview][./phonePreview_En]
+![Preview][./preview_Zh.png] ![Preview][./preview_En.png]
+![Preview][./phonePreview_Zh.png] ![Preview][./phonePreview_En.png]
 
 **A Simple Prompt Tool for Beginners**
 
