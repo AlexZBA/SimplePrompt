@@ -1,86 +1,21 @@
-SimplePrompt Attribution License 1.0
-Custom software license — not the MIT License
-SPDX-License-Identifier: LicenseRef-SimplePrompt-Attribution-1.0
+MIT License
 
 Copyright (c) 2026 AlexZBA
-Original project: https://github.com/AlexZBA/SimplePrompt
 
-1. Permission and scope
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-AlexZBA grants each recipient a worldwide, royalty-free, non-exclusive
-permission to run, study, reproduce, modify, combine, distribute, and sell
-this project's software code and adaptations of that code (the Software),
-provided that the conditions below are met. Commercial and private uses are
-permitted. Recipients are not required to publish their source code or their
-modifications. This license applies only to rights the licensor can grant.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. Preserve notices
-
-When redistributing the Software, an adaptation, or a substantial portion
-of its code, include this complete license, the copyright notice above,
-and the original-project URL. Keep those notices with both source and
-executable distributions. A standalone HTML distribution may carry them
-in an embedded license-text block instead of a separate file.
-
-3. Accessible interface attribution
-
-If an application, website, or tool uses the Software or a substantial
-portion of its code and has a graphical user interface, it must display
-the following attribution in an About, Credits, Acknowledgements, or
-equivalent section that users can easily reach from the main interface:
-
-    Based on SimplePrompt
-
-The attribution must link to:
-    https://github.com/AlexZBA/SimplePrompt
-
-This requirement applies to modified versions, commercial versions,
-hosted services, and software combined into a larger product. It applies
-to desktop and mobile layouts alike. Opening that section through a
-clearly labelled, ordinary menu or button is sufficient. No permanent
-attribution on the homepage, main screen, or main-interface footer is
-required. Once the section is opened, the attribution must be readable,
-and must not be concealed, made transparent, or obscured. Other credits
-may appear alongside it. Attribution only in source comments or a
-developer-only file does not satisfy this graphical-interface requirement.
-
-If clickable links are technically unavailable, display the attribution
-and the full original-project URL as readable text in that section.
-Software without a graphical user interface must instead include them
-in its ordinary help/about output or accompanying user documentation.
-
-These obligations apply when distributing the covered code or making a
-covered application available for use. They do not require attribution
-on prompts, images, or other ordinary outputs produced with the tool.
-Merely using the tool does not make those outputs covered code.
-
-4. Other terms and third-party material
-
-Additional terms for your own contributions must not remove the notice
-and interface-attribution obligations for the covered Software. Nothing
-here requires the public release of an adaptation's code. Credit must not
-suggest that AlexZBA endorses an adaptation or its operator.
-
-Third-party tag data, translations, artwork, dependencies, and other
-third-party material are not relicensed by this document. Their applicable
-rights, notices, and license terms remain separate. This license does not
-grant trademark rights or rights in material the licensor does not own.
-
-5. No warranty; limitation of liability
-
-The Software is supplied without promises about quality, suitability,
-availability, correctness, or freedom from infringement. Use is at the
-recipient's own risk. To the extent allowed by applicable law, the author
-and copyright holders accept no liability for losses, damages, claims,
-or costs arising from the Software or from its use, modification, or
-distribution. Rights that applicable law does not allow to be excluded
-are unaffected.
-
-6. Compliance
-
-The permissions in this license are conditional on compliance with its
-terms. A person who does not comply must stop the noncompliant use or
-distribution or obtain separate permission from the copyright holder.
-
-This is a custom license. It must not be described as the standard MIT
-License or represented as an OSI-approved license.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
