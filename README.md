@@ -12,7 +12,7 @@ Explore bilingual tags, mix and match ideas, and generate prompts with ease.
 直接用浏览器打开 `index.html`，无需安装依赖。也可以通过 GitHub Pages 使用。
 收藏、黑名单、搭配与设置保存在使用者自己的浏览器，不会上传到仓库或服务器。
 
-在仓库 **Settings → Pages** 中选择 **Deploy from a branch**，分支 `main`、目录 `/ (root)`，保存即可发布。
+也可直接访问连接 https://alexzba.github.io/SimplePrompt/ 使用
 
 ## Language / 界面语言
 
