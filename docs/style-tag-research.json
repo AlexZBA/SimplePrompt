@@ -1,0 +1,936 @@
+{
+  "date": "2026-10-30",
+  "updatedArtists": 31,
+  "tagAssignments": 58,
+  "uniqueExistingTagsUsed": 26,
+  "newPoolTags": 0,
+  "evidenceItems": 44,
+  "previouslyTaggedArtistsUnchanged": 45,
+  "perImageAiCalls": 0,
+  "method": "Published text and commentary, mapped editorially to existing tags. Creation-type tags used where aesthetic descriptions were insufficient.",
+  "artists": [
+    {
+      "id": "v16n05",
+      "name": "Kei Mochizuki",
+      "tags": [
+        "lineart"
+      ],
+      "evidence": [
+        {
+          "id": "v16n05",
+          "tags": [
+            "lineart"
+          ],
+          "sourceTitle": "Wacom：ラフ～線画編",
+          "url": "https://tablet.wacom.co.jp/article/wakaru-dww-line",
+          "sourceType": "documented process",
+          "basis": "Wacom 对望月けい的作画说明强调线条粗细变化表达阴影与材质，因此对应线稿。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n12",
+      "name": "Tiv",
+      "tags": [
+        "pale_colors",
+        "novel_illustration"
+      ],
+      "evidence": [
+        {
+          "id": "v16n12",
+          "tags": [
+            "pale_colors"
+          ],
+          "sourceTitle": "Tiv：读者画风评论",
+          "url": "https://lunchcakezero.seesaa.net/article/447135040.html",
+          "sourceType": "reader commentary",
+          "basis": "评论者认为 Tiv 作品的清爽感可能来自较淡的用色；归纳为淡色系，保留这是一位读者的判断。",
+          "scope": "representative work",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n12",
+          "tags": [
+            "novel_illustration"
+          ],
+          "sourceTitle": "EIZO：イラストレーター Tiv 氏",
+          "url": "https://www.eizo.co.jp/solutions/solution/creative/tiv/index.html",
+          "sourceType": "interview",
+          "basis": "EIZO 访谈列出 Tiv 的小说插画代表作；此项为作品类型，不是对所有图片的配色判断。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n14",
+      "name": "SWAV",
+      "tags": [
+        "green_theme"
+      ],
+      "evidence": [
+        {
+          "id": "v16n14",
+          "tags": [
+            "green_theme"
+          ],
+          "sourceTitle": "pixivision：Can illustration be cinematic?",
+          "url": "https://www.pixivision.net/en/a/7406",
+          "sourceType": "interview",
+          "basis": "SWAV 明确谈到经常使用偏蓝的玉绿色调，并介绍电影色彩与灯光对作品的影响；现有池没有电影感标签，故只映射绿色调。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n16",
+      "name": "Shunsaku Tomose",
+      "tags": [
+        "novel_illustration"
+      ],
+      "evidence": [
+        {
+          "id": "v16n16",
+          "tags": [
+            "novel_illustration"
+          ],
+          "sourceTitle": "CDJapan：Shunsaku Tomose Art Works",
+          "url": "https://www.cdjapan.co.jp/product/NEOBK-2106558",
+          "sourceType": "publisher/distributor description",
+          "basis": "画集介绍明确对应轻小说《欢迎来到实力至上主义的教室》的插画。未从角色设计报道推断统一配色。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n18",
+      "name": "Noizi Ito",
+      "tags": [
+        "novel_illustration"
+      ],
+      "evidence": [
+        {
+          "id": "v16n18",
+          "tags": [
+            "novel_illustration"
+          ],
+          "sourceTitle": "edition88：Noizi Ito",
+          "url": "https://edition88.com/collections/noizi-ito",
+          "sourceType": "exhibition description",
+          "basis": "展览方介绍其《灼眼的夏娜》《凉宫春日》轻小说插画工作。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n22",
+      "name": "Krenz Cushart",
+      "tags": [
+        "backlighting",
+        "painterly",
+        "pastel_colors"
+      ],
+      "evidence": [
+        {
+          "id": "v16n22",
+          "tags": [
+            "backlighting"
+          ],
+          "sourceTitle": "ImagineFX：Paint a backlit manga character",
+          "url": "https://vietchigo.i234.me/library/magazine/digital/ImagineFX/2013-02_ImagineFX_092.pdf",
+          "sourceType": "artist tutorial",
+          "basis": "Krenz 在署名教程中表示经常用逆光增强角色的戏剧感。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n22",
+          "tags": [
+            "painterly",
+            "pastel_colors"
+          ],
+          "sourceTitle": "Digital Painting School：Krenz Cushart 作品评论",
+          "url": "https://digitalpainting.school/magazine/artistes-inspiration/40-illustrations-maitre-de-digital-painting-krenz-cushart",
+          "sourceType": "editorial commentary",
+          "basis": "作者 Celia 谈到柔和粉彩配色、纹理笔刷与传统媒介般的观感；后者归纳为绘画感。",
+          "scope": "representative work",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n23",
+      "name": "Ruan Jia",
+      "tags": [
+        "painterly",
+        "high_contrast"
+      ],
+      "evidence": [
+        {
+          "id": "v16n23",
+          "tags": [
+            "painterly"
+          ],
+          "sourceTitle": "Ruan Jia master study：学习者评论",
+          "url": "https://www.reddit.com/r/istebrak/comments/qayacw",
+          "sourceType": "community commentary",
+          "basis": "学习者明确讨论阮佳的绘画感及其临摹体验；保留为社区意见，不声称所有作品皆如此。",
+          "scope": "representative work",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n23",
+          "tags": [
+            "high_contrast"
+          ],
+          "sourceTitle": "How can I make my art look as sharp as Ruan Jia?",
+          "url": "https://www.reddit.com/r/Artadvice/comments/1p1990f/how_can_i_make_my_art_look_as_sharp_as_someone/",
+          "sourceType": "community commentary",
+          "basis": "讨论者将阮佳的醒目效果归因于明暗、形状、纹理与颜色的对比，映射为高对比度。",
+          "scope": "representative work",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n25",
+      "name": "Sakimichan",
+      "tags": [
+        "colorful",
+        "portrait"
+      ],
+      "evidence": [
+        {
+          "id": "v16n25",
+          "tags": [
+            "colorful",
+            "portrait"
+          ],
+          "sourceTitle": "Character Art School：Artist Interview Sakimichan",
+          "url": "https://www.characterartschool.com/artsketch/sakimichan/",
+          "sourceType": "interview",
+          "basis": "访谈介绍其细致肖像；本人谈到主动发展鲜明色彩、偏爱多彩视觉。因此标记色彩丰富与肖像，不推断所有作品的上色方式。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n27",
+      "name": "Ross Tran (RossDraws)",
+      "tags": [
+        "painterly",
+        "colorful"
+      ],
+      "evidence": [
+        {
+          "id": "v16n27",
+          "tags": [
+            "painterly"
+          ],
+          "sourceTitle": "La Ligne à Suivre：Ross Tran",
+          "url": "https://laligneasuivre.com/artiste-semaine-ross-tran/",
+          "sourceType": "editorial commentary",
+          "basis": "评论将 Ross Tran 的绘画表现与传统画家联系，并描述画面运动感；对应绘画感。",
+          "scope": "representative work",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n27",
+          "tags": [
+            "colorful"
+          ],
+          "sourceTitle": "Creative Flair：Ross Tran Student Research",
+          "url": "https://creativeflair.org/ross-tran-student-research/",
+          "sourceType": "student commentary",
+          "basis": "学生研究文字明确关注其明亮鲜艳的颜色与传统艺术观感；只采用颜色描述，不引用其中的传记断言。",
+          "scope": "representative work",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n28",
+      "name": "Heikala",
+      "tags": [
+        "watercolor_(medium)",
+        "traditional_media",
+        "lineart"
+      ],
+      "evidence": [
+        {
+          "id": "v16n28",
+          "tags": [
+            "watercolor_(medium)",
+            "traditional_media"
+          ],
+          "sourceTitle": "Heikala：About Heikala",
+          "url": "https://heikala.com/pages/about-heikala",
+          "sourceType": "artist statement",
+          "basis": "本人说明以墨与水彩进行实体创作；对应水彩媒介与传统媒介。",
+          "scope": "documented medium",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n28",
+          "tags": [
+            "lineart"
+          ],
+          "sourceTitle": "Mossery：An Interview with Heikala",
+          "url": "https://www.mossery.co/blogs/inspiration/artist-collaboration-an-interview-with-heikala",
+          "sourceType": "interview",
+          "basis": "本人讲述先以墨笔描线，再等待线稿干燥后上色的流程。",
+          "scope": "documented process",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n29",
+      "name": "Yuumei",
+      "tags": [
+        "lineart",
+        "painterly",
+        "comic"
+      ],
+      "evidence": [
+        {
+          "id": "v16n29",
+          "tags": [
+            "lineart",
+            "painterly"
+          ],
+          "sourceTitle": "Yuumei：作者近作与绘画说明",
+          "url": "https://www.yuumeiart.com/",
+          "sourceType": "artist statement",
+          "basis": "本人提到漫画长期倚重线稿，近期尝试更有绘画感的处理。两项分别对应既有漫画与近期探索，不代表每张图同时符合。",
+          "scope": "comics and recent painterly explorations",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n29",
+          "tags": [
+            "comic"
+          ],
+          "sourceTitle": "Otakus & Geeks：Yuumei Interview",
+          "url": "https://www.otakusandgeeks.com/articles/2017/12/1/yuumei-interview",
+          "sourceType": "interview",
+          "basis": "访谈明确以 Fisheye Placebo 与 Knite 创作者身份介绍其漫画创作。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n30",
+      "name": "Acky Bright",
+      "tags": [
+        "monochrome",
+        "lineart"
+      ],
+      "evidence": [
+        {
+          "id": "v16n30",
+          "tags": [
+            "monochrome",
+            "lineart"
+          ],
+          "sourceTitle": "KAI-YOU：Acky Bright interview, page 4",
+          "url": "https://kai-you.net/article/81234/page/4",
+          "sourceType": "interview",
+          "basis": "访谈直接讨论其黑白线描，以及纸笔绘画的吸引力。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n31",
+      "name": "Artgerm (Stanley Lau)",
+      "tags": [
+        "realistic",
+        "western_comics_(style)"
+      ],
+      "evidence": [
+        {
+          "id": "v16n31",
+          "tags": [
+            "realistic",
+            "western_comics_(style)"
+          ],
+          "sourceTitle": "DC：Stanley Artgerm Lau interview",
+          "url": "https://www.dc.com/blog/2020/04/21/stanley-artgerm-laus-new-catwoman-statue-impresses-and-inspires",
+          "sourceType": "interview",
+          "basis": "本人将作品描述为东西方融合，谈到写实动漫及读者感知的西方漫画风格。对应写实与西式漫画表现，不将动漫影响等同于赛璐珞上色。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n32",
+      "name": "Bo Chen",
+      "tags": [
+        "game_cg"
+      ],
+      "evidence": [
+        {
+          "id": "v16n32",
+          "tags": [
+            "game_cg"
+          ],
+          "sourceTitle": "Bo Chen：本人作品集",
+          "url": "https://chenbo.artstation.com/",
+          "sourceType": "artist portfolio",
+          "basis": "本人作品集列出多项英雄联盟 Splash Art，与 Riot 插画师经历相符；只标记游戏绘图类型，不凭这一点推断具体笔触。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n33",
+      "name": "Zeronis",
+      "tags": [
+        "concept_art"
+      ],
+      "evidence": [
+        {
+          "id": "v16n33",
+          "tags": [
+            "concept_art"
+          ],
+          "sourceTitle": "Paul Kwon Zeronis：本人履历",
+          "url": "https://zeronis-pk.artstation.com/resume",
+          "sourceType": "artist-authored biography",
+          "basis": "本人履历明确列出曾任 Riot Games 与 Timi Studios 概念艺术家；只对应概念设计类型，不标记未经来源描述的颜色或光照。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n34",
+      "name": "KYMG / Yusuke Kozaki",
+      "tags": [
+        "lineart",
+        "realistic"
+      ],
+      "evidence": [
+        {
+          "id": "v16n34",
+          "tags": [
+            "lineart"
+          ],
+          "sourceTitle": "The-O Network：Yusuke Kozaki Interview",
+          "url": "https://www.t-ono.net/interview/yusuke-kozaki-interview-japan-expo-usa-2013.html",
+          "sourceType": "interview",
+          "basis": "本人谈到漫画的草稿与线稿使用手绘；此项对应漫画绘制流程。",
+          "scope": "documented manga process",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n34",
+          "tags": [
+            "realistic"
+          ],
+          "sourceTitle": "Gaming.moe：Interview Yusuke Kozaki",
+          "url": "https://gaming.moe/?p=162",
+          "sourceType": "interviewer commentary",
+          "basis": "采访者将其画风描述为精炼、时髦且较写实；映射为写实倾向，不声称摄影般写实。",
+          "scope": "representative work",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n35",
+      "name": "Hozure",
+      "tags": [
+        "game_cg"
+      ],
+      "evidence": [
+        {
+          "id": "v16n35",
+          "tags": [
+            "game_cg"
+          ],
+          "sourceTitle": "League of Legends Wiki：Horace Hozure Hsu",
+          "url": "https://wiki.leagueoflegends.com/en-us/Horace_%27Hozure%27_Hsu",
+          "sourceType": "credit reference",
+          "basis": "资料列出其大量英雄联盟 Splash Art；只能支持游戏绘图类型，尚不足以支持具体美学标签。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n36",
+      "name": "Loish",
+      "tags": [
+        "painterly",
+        "art_nouveau",
+        "colorful"
+      ],
+      "evidence": [
+        {
+          "id": "v16n36",
+          "tags": [
+            "painterly",
+            "art_nouveau"
+          ],
+          "sourceTitle": "Digital Art And Process：Interview with Loish",
+          "url": "https://supertravelr.com/en/trip/the-netherlands/digital-art-and-process-an-interview-with-loish-1558BF3F79/",
+          "sourceType": "interview",
+          "basis": "访谈中本人谈到穆夏与新艺术运动影响，以及用数字媒介获得绘画感的追求。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n36",
+          "tags": [
+            "colorful"
+          ],
+          "sourceTitle": "Creative Bloq：Loish interview",
+          "url": "https://www.creativebloq.com/features/loish-interview",
+          "sourceType": "interview",
+          "basis": "本人把个人创作形容为色彩丰富的女孩绘画，并讲述配色唤起情绪的过程。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n37",
+      "name": "Peter Mohrbacher",
+      "tags": [
+        "surreal",
+        "concept_art"
+      ],
+      "evidence": [
+        {
+          "id": "v16n37",
+          "tags": [
+            "surreal"
+          ],
+          "sourceTitle": "Angelarium：About",
+          "url": "https://www.angelarium.net/about",
+          "sourceType": "artist statement",
+          "basis": "作者将 Angelarium 概括为超现实的天使形象；此标签主要描述该个人系列。",
+          "scope": "Angelarium series",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n37",
+          "tags": [
+            "concept_art"
+          ],
+          "sourceTitle": "Lightspeed：Artist Showcase Peter Mohrbacher",
+          "url": "https://www.lightspeedmagazine.com/nonfiction/artist-showcase-peter-mohrbacher/",
+          "sourceType": "interview",
+          "basis": "访谈介绍其概念艺术家与插画师工作，作为作品类型记录。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n38",
+      "name": "Atey Ghailan",
+      "tags": [
+        "colorful",
+        "concept_art"
+      ],
+      "evidence": [
+        {
+          "id": "v16n38",
+          "tags": [
+            "colorful",
+            "concept_art"
+          ],
+          "sourceTitle": "Art Side of Life：Atey Ghailan interview",
+          "url": "https://artsideoflife.com/snatti-atey-ghailan/",
+          "sourceType": "interview",
+          "basis": "本人回顾摆脱早期过于灰暗克制的颜色、转向喜爱的风格化多彩创作；访谈同时明确其概念设计身份。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n39",
+      "name": "Craig Mullins",
+      "tags": [
+        "painterly",
+        "concept_art"
+      ],
+      "evidence": [
+        {
+          "id": "v16n39",
+          "tags": [
+            "painterly",
+            "concept_art"
+          ],
+          "sourceTitle": "THU：Craig Mullins",
+          "url": "https://www.trojan-unicorn.com/village/warriors/craig-mullins",
+          "sourceType": "professional biography",
+          "basis": "主办方介绍其概念设计背景，并明确将其标志性手法称为富有绘画感的快速数字绘画。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n40",
+      "name": "Jama Jurabaev",
+      "tags": [
+        "realistic",
+        "3d",
+        "concept_art"
+      ],
+      "evidence": [
+        {
+          "id": "v16n40",
+          "tags": [
+            "realistic",
+            "3d",
+            "concept_art"
+          ],
+          "sourceTitle": "KeyShot：Jama Jurabaev customer interview",
+          "url": "https://www.keyshot.com/customers/jama-jurabaev-used-keyshot-to-render-concept-art-for-blockbuster-films/",
+          "sourceType": "interview",
+          "basis": "客户访谈强调作品的写实与复杂度，说明使用 3D-Coat、KeyShot 渲染并叠加绘画完成电影概念设计。3D 表示有记录的工作流程，不意味着全部作品皆为纯 3D。",
+          "scope": "documented hybrid workflow",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n42",
+      "name": "Sparth (Nicolas Bouvier)",
+      "tags": [
+        "painterly",
+        "concept_art"
+      ],
+      "evidence": [
+        {
+          "id": "v16n42",
+          "tags": [
+            "painterly",
+            "concept_art"
+          ],
+          "sourceTitle": "Digital Visualisation：Case Study Sparth",
+          "url": "https://dmacart.wordpress.com/2015/10/20/case-study-sparth/",
+          "sourceType": "student commentary",
+          "basis": "案例研究描述其早期绘画感与后来更图形化的演变。绘画感标签只代表其作品中的一个分支，不宣称其各时期画法相同。",
+          "scope": "earlier painterly work; broader concept design",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n43",
+      "name": "Maciej Kuciara",
+      "tags": [
+        "concept_art"
+      ],
+      "evidence": [
+        {
+          "id": "v16n43",
+          "tags": [
+            "concept_art"
+          ],
+          "sourceTitle": "ImagineFX / Creative Bloq：Maciej Kuciara interview",
+          "url": "https://www.creativebloq.com/art/digital-art/how-a-self-taught-artist-became-a-concept-designer-for-blockbusters-like-the-avengers-and-spider-man-no-way-home",
+          "sourceType": "interview",
+          "basis": "访谈清楚记录其游戏与电影概念设计工作；未因参与 Cyberpunk 2077 就自动标记全部个人作品为赛博朋克。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n44",
+      "name": "Raphael Lacoste",
+      "tags": [
+        "landscape",
+        "architecture"
+      ],
+      "evidence": [
+        {
+          "id": "v16n44",
+          "tags": [
+            "landscape",
+            "architecture"
+          ],
+          "sourceTitle": "Computer Graphics World：Raphael Lacoste",
+          "url": "https://www.cgw.com/Publications/CGW/2005/Volume-28-Issue-2-Feb-2005-/Raphael-Lacoste.aspx",
+          "sourceType": "interview",
+          "basis": "本人明确谈到通过风景与建筑探索光照、情绪和氛围；池内没有笼统的电影氛围标签，采用有直接依据的风景与建筑题材。",
+          "scope": "documented environment subjects",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n45",
+      "name": "Simon Stålenhag",
+      "tags": [
+        "retrofuturism",
+        "landscape",
+        "rural"
+      ],
+      "evidence": [
+        {
+          "id": "v16n45",
+          "tags": [
+            "retrofuturism"
+          ],
+          "sourceTitle": "Vogue Scandinavia：Simon Stålenhag interview",
+          "url": "https://www.voguescandinavia.com/articles/video-simon-stalenhag",
+          "sourceType": "interview",
+          "basis": "采访介绍其带有怀旧色彩的复古未来主义绘画。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n45",
+          "tags": [
+            "landscape",
+            "rural"
+          ],
+          "sourceTitle": "Mint：Interview Simon Stålenhag",
+          "url": "https://www.livemint.com/mint-lounge/art-and-culture/looping-back-to-the-present-with-simon-stlenhag-111641406480238.html",
+          "sourceType": "interview",
+          "basis": "本人讨论让机械设计融入风景，并说明经常描绘乡间环境。",
+          "scope": "documented landscape subjects",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n46",
+      "name": "Pascal Campion",
+      "tags": [
+        "sketch"
+      ],
+      "evidence": [
+        {
+          "id": "v16n46",
+          "tags": [
+            "sketch"
+          ],
+          "sourceTitle": "Sactown Magazine：Drawn From Life",
+          "url": "https://www.sactownmag.com/drawn-from-life/?amp=1",
+          "sourceType": "editorial commentary",
+          "basis": "作者以具有叙事与电影感的速写介绍其作品。保留速写类型，不把温暖情绪自动等同为暖色调。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n47",
+      "name": "Gabriel Picolo",
+      "tags": [
+        "comic",
+        "lineart"
+      ],
+      "evidence": [
+        {
+          "id": "v16n47",
+          "tags": [
+            "comic"
+          ],
+          "sourceTitle": "DC：Gabriel Picolo biography",
+          "url": "https://www.dc.com/talent/gabriel-picolo",
+          "sourceType": "publisher biography",
+          "basis": "出版方介绍其漫画创作及叙事性；用于记录漫画类型。",
+          "scope": "documented work type",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n47",
+          "tags": [
+            "lineart"
+          ],
+          "sourceTitle": "Opinions on Gabriel Picolo art：读者评论",
+          "url": "https://www.reddit.com/r/teentitans/comments/1jhawmb",
+          "sourceType": "reader commentary",
+          "basis": "读者明确讨论线条的风格化以及配色选择；只采用线稿，不把未指明的配色强行对应到某种色盘。",
+          "scope": "representative work",
+          "confidence": "moderate",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n48",
+      "name": "Marco Bucci",
+      "tags": [
+        "painterly",
+        "watercolor_(medium)"
+      ],
+      "evidence": [
+        {
+          "id": "v16n48",
+          "tags": [
+            "painterly"
+          ],
+          "sourceTitle": "Let Me Illustrate：Marco Bucci interview",
+          "url": "https://therewillbe.games/podcasts/7989-let-me-illustrate-marco-bucci-interview",
+          "sourceType": "interview",
+          "basis": "本人将主要风格称为绘画感，强调可见笔触，并说明希望数字创作保留传统媒介的表现。",
+          "scope": "representative work",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        },
+        {
+          "id": "v16n48",
+          "tags": [
+            "watercolor_(medium)"
+          ],
+          "sourceTitle": "Art Side of Life：Marco Bucci interview",
+          "url": "https://artsideoflife.com/marco-bucci/",
+          "sourceType": "interview",
+          "basis": "本人讲述水彩写生与用色流程；只对应其有记录的实体水彩实践，不声称所有数字作品实际由水彩完成。",
+          "scope": "documented traditional watercolor practice",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n49",
+      "name": "Ahmed Aldoori",
+      "tags": [
+        "portrait"
+      ],
+      "evidence": [
+        {
+          "id": "v16n49",
+          "tags": [
+            "portrait"
+          ],
+          "sourceTitle": "Ahmed Aldoori：本人课程与作品说明",
+          "url": "https://medders.gumroad.com/",
+          "sourceType": "artist-authored description",
+          "basis": "本人目录多次明确列出角色肖像、头部写生与脸部光照绘画。先标记肖像方向，不从课程中的某项技法推断全体作品风格。",
+          "scope": "documented portrait focus",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": "v16n50",
+      "name": "Even Amundsen",
+      "tags": [
+        "concept_art",
+        "sketch"
+      ],
+      "evidence": [
+        {
+          "id": "v16n50",
+          "tags": [
+            "concept_art",
+            "sketch"
+          ],
+          "sourceTitle": "ROI：Even Amundsen artist introduction",
+          "url": "https://roi.geniusacademy.it/en/even-amundsen-2/",
+          "sourceType": "professional biography",
+          "basis": "介绍其角色概念设计、世界构建及速写本实践。本人另在访谈中表示倾向灵活发展而非固定风格，因此不强贴写实等统一审美标签。",
+          "scope": "documented work type and sketch practice",
+          "confidence": "high",
+          "mapping": "existing-tag interpretation of published text; not an image-classifier result",
+          "accessedDate": "2026-10-30"
+        }
+      ]
+    }
+  ]
+}

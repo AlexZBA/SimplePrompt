@@ -1,51 +1,25 @@
-# SimplePrompt
+# SimplePrompt v1.6
 
-[English](./README.md) | **简体中文**
+面向新手的中英双语提示词工具，支持画师浏览、收藏、黑名单与多模型输出。
 
-**面向 AI 生图新手的提示词工具**
+[在线使用](https://alexzba.github.io/SimplePrompt/)
 
-提供干净易用的界面，支持手机和桌面、中英标签搜索、自由搭配、收藏、黑名单，以及保留已选词的种子随机生成。
+当前包含 76 位画师、304 张本地预览图与 3741 个双语标签。画师预览图片随程序打包，网页打开后从同站点的 assets/artist-images 加载，不依赖外部图站或 Python 服务。
 
-[在线使用 SimplePrompt](https://alexzba.github.io/SimplePrompt/)
+## 离线使用
 
-## 界面预览
+下载并解压完整目录，保留 css、js、data、assets，再双击 index.html。不要只下载 HTML 文件。
 
-### 桌面端
+## GitHub Pages
 
-[<img src="./images/preview_Ch.png" alt="SimplePrompt 中文桌面界面" width="960">](./images/preview_Ch.png)
+将 index.html、css、js、data、assets 和 .nojekyll 保持在同一发布根目录。图片路径使用相对路径，可用于 /SimplePrompt/ 项目子路径。已启用的 Pages 部署会在 main 更新后发布。
 
-### 手机端
+## 标签和图片来源
 
-[<img src="./images/phonePreview_Ch.png" alt="SimplePrompt 中文手机界面" width="300">](./images/phonePreview_Ch.png)
+普通标签参考 Latent Tags / Danbooru。画师风格标签是根据作品介绍、访谈和评论作出的编辑归纳，不保证每幅作品都符合。来源记录见 docs/data-sources.json 和 docs/style-tag-research.json。
 
-## 使用
+新增预览按来源元数据筛选，未全部逐图视觉审核。第三方作品版权归原作者，不属于 MIT 代码许可的授权范围。删除请求请通过仓库 Issues 联系维护者。
 
-可以直接访问[在线版本](https://alexzba.github.io/SimplePrompt/)，也可以用浏览器打开 `index.html`，无需安装依赖。
+## 许可
 
-收藏、黑名单、搭配与设置保存在使用者自己的浏览器，不会上传到仓库或服务器。
-
-## 界面语言
-
-首次打开按浏览器提供的首选语言显示界面。中文（`zh-*`）使用中文界面，英语及其他语言使用英文界面。
-
-可在“关于 SimplePrompt”旁通过 **English / 中文** 切换，手机端入口位于“更多”菜单。手动选择会保存在当前浏览器；切换不会改变搭配、收藏、黑名单或随机种子。
-
-两种界面均支持中英搜索，复制结果仍为英文 tag。
-
-## 许可证
-
-Copyright © 2026 AlexZBA.
-
-本项目的软件代码采用标准 [MIT 许可证](./LICENSE)，允许商用、修改和分发，不强制公开修改后的源码。复制或分发代码及其实质性部分时，须保留版权和许可声明；不强制在主页或“关于”界面展示署名。完整条款以 [LICENSE](./LICENSE) 为准。
-
-## 开发说明
-
-本项目使用 ChatGPT 辅助编程。
-
-## 数据来源
-
-标签数据来自 [Latent Tags](https://tags.latent.moe/en) 使用的 Danbooru 快照，分类和部分中文释义经过整理。
-
-第三方标签、译文及其他第三方内容不因本项目的代码许可证而被重新授权，相关权利与许可仍单独适用。
-
-原项目：[AlexZBA/SimplePrompt](https://github.com/AlexZBA/SimplePrompt)。
+代码采用 MIT 许可证，版权归 AlexZBA。项目使用 ChatGPT 辅助编程。原有功能、收藏和黑名单逻辑沿用 v1.6。

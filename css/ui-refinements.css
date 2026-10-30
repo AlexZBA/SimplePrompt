@@ -1,0 +1,23 @@
+/* Shared browse toolbar: collections and search left, category/order right. */
+#tagPane>.toolbar,.artist-browse-toolbar{display:flex;align-items:center;justify-content:flex-start;gap:8px;flex-wrap:wrap}
+#tagPane>.toolbar>#category,.artist-browse-toolbar>#artistSort{margin-left:auto}
+#tagPane>.toolbar>.browse-count{flex-basis:100%;margin:0;font-size:11px}
+#tagPane>.toolbar>#mobileMoreButton{display:none!important}
+.artist-refresh-fab{position:fixed;z-index:5;width:48px;height:48px;border:0;border-radius:50%;padding:0;display:grid;place-items:center;background:var(--green);color:var(--paper);box-shadow:0 4px 12px #243a3626}
+.artist-refresh-fab:hover{background:#24533f;color:white}
+#artistCatalogEnd{padding-bottom:66px}
+.settings-about{margin-top:24px;padding:16px 0;border-top:1px solid var(--line)}
+.settings-about summary{cursor:pointer;font-weight:600;color:var(--green)}
+.settings-about-content{padding-top:12px;max-width:68ch}
+.settings-about-content p+p{margin-top:10px}
+.settings-about-content a{color:var(--green);text-underline-offset:3px}
+#warning{color:#53665c}
+@media(max-width:720px){
+ .header-controls .catalog-switch{display:none!important}
+ #tagPane>.toolbar>#favoritesButton,#tagPane>.toolbar>#blacklistButton{display:block}
+ #tagPane>.toolbar>#favoritesButton,#tagPane>.toolbar>#blacklistButton,#tagPane>.toolbar>#searchButton,.artist-browse-toolbar>button{order:0;flex:0 0 auto;width:auto;min-height:36px;padding:7px 9px;font-size:12px;text-align:center;background:var(--paper)}
+ #tagPane>.toolbar>#category,.artist-browse-toolbar>#artistSort{order:1;max-width:130px;min-height:36px;margin-left:auto;padding:7px 8px;font-size:12px}
+ #tagPane>.toolbar>.browse-count{order:2;width:100%}
+ .settings-about-content{overflow-wrap:anywhere}
+}
+@media(max-width:360px){#tagPane>.toolbar,.artist-browse-toolbar{gap:6px}#tagPane>.toolbar>#favoritesButton,#tagPane>.toolbar>#blacklistButton,#tagPane>.toolbar>#searchButton,.artist-browse-toolbar>button{padding:7px 6px;font-size:11px}#tagPane>.toolbar>#category,.artist-browse-toolbar>#artistSort{font-size:11px;max-width:105px;min-width:82px}}

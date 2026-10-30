@@ -2,53 +2,28 @@
 
 **English** | [简体中文](./README.zh-CN.md)
 
-**A Simple Prompt Tool for Beginners**
-
-A beginner-friendly AI image prompt builder with a clean, intuitive UI.
-Explore bilingual tags, mix and match ideas, and generate prompts with ease.
-
-Works on desktop and mobile, with Chinese and English tag search, favorites, a blacklist, and random generation that keeps your selected tags.
+A beginner-friendly bilingual prompt builder with artist previews, favorites, a blacklist, and model-specific artist formatting.
 
 [Open SimplePrompt](https://alexzba.github.io/SimplePrompt/)
 
-## Screenshots
+## Current version
 
-### Desktop
-
-[<img src="./images/preview_En.png" alt="SimplePrompt desktop interface in English" width="960">](./images/preview_En.png)
-
-### Mobile
-
-[<img src="./images/phonePreview_En.png" alt="SimplePrompt mobile interface in English" width="300">](./images/phonePreview_En.png)
+Version 1.6 includes 76 artists, 304 bundled previews, and 3741 bilingual tags. Artist images are served from this repository's assets/artist-images directory using relative URLs. Viewing previews requires no Python service, external image host, or login.
 
 ## Usage
 
-Use the [online version](https://alexzba.github.io/SimplePrompt/), or open `index.html` directly in your browser. No dependencies need to be installed.
+Open the online version, or download and extract the full repository and open index.html. Keep css, js, data, and assets beside index.html. Downloading only index.html will omit the application data and previews.
 
-Favorites, blacklist entries, tag combinations, and settings are saved in your own browser. They are not uploaded to the repository or a server.
+Favorites, blacklists and settings stay in the current browser. Language can be changed in Settings. Artist previews and tags can be browsed and searched in Chinese and English.
 
-## Interface language
+## GitHub Pages
 
-The first visit follows the browser's preferred system language. Chinese (`zh-*`) uses the Chinese UI; English and other languages use English.
+Publish from the main branch root. The bundled .nojekyll file keeps deployment static. Relative image URLs support the /SimplePrompt/ project path.
 
-Switch with **English / 中文** next to **About SimplePrompt**. On phones, both are in **More**. Your manual preference is remembered in this browser. Switching languages does not change your tag combinations, favorites, blacklist, or random seed.
+## Sources and license
 
-Both interfaces support Chinese and English searches. Copied prompts still use English tags.
+Tag data references Latent Tags / Danbooru. Artist descriptors are editorial mappings from published commentary and interviews, not universal classifications. Public provenance is in docs/data-sources.json and docs/style-tag-research.json. New artwork previews were filtered using source metadata, not all individually visually reviewed.
 
-## License
-
-Copyright © 2026 AlexZBA. The software code is licensed under the [MIT License](./LICENSE).
-
-Commercial use, modification and redistribution are permitted. Keep the copyright and permission notice with copies or substantial portions of the software. Publishing modified source code or displaying credit in the user interface is not required. See [LICENSE](./LICENSE) for the full terms.
-
-## Development acknowledgement
+Software code is licensed under the MIT License, copyright AlexZBA. Third-party artwork belongs to its creators and is not relicensed under MIT. Removal requests may be submitted through repository Issues.
 
 This project was developed with programming assistance from ChatGPT.
-
-## Data sources
-
-Tag data comes from the Danbooru snapshot used by [Latent Tags](https://tags.latent.moe/en). Categories and some Chinese definitions have been curated.
-
-Third-party tags, translations, and other third-party content are not relicensed under this project's code license. Their respective rights and licenses still apply.
-
-Original project: [AlexZBA/SimplePrompt](https://github.com/AlexZBA/SimplePrompt).
